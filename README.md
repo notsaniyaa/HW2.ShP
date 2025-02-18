@@ -34,27 +34,34 @@ java MUDController
 _**🎮 How to Play**_
 
 - look
+  
 Start Room - A dark, cold chamber.
 Items here: sword
 
 - pick up sword
+  
 You picked up the sword.
 
 - move forward
+  
 The door is closed. Try opening it first.
 
 - open door
+  
 You open the door.
 
 - move forward
+  
 You moved forward.
 Hallway - A long, narrow corridor.
 You see an old wizard here.
 
 - talk
+  
 You talk to the old wizard. They greet you warmly.
 
->> attack
+- attack
+  
 You attack the old wizard! They run away.
 
 _**📜 Commands**_
