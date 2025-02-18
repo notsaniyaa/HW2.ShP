@@ -67,6 +67,7 @@ You talk to the old wizard. They greet you warmly.
 You attack the old wizard! They run away.
 
 _**📜 Commands**_
+
 look -	Describes the current room
 
 move <direction> - Moves the player (e.g., move forward)
