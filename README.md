@@ -16,50 +16,39 @@ Get a list of available commands (help)
 Exit the game (quit / exit)
 🛠️ Installation & Run
 1. Clone the repository
-sh
-Копировать
-Редактировать
 git clone https://github.com/your-username/mud-game.git
 cd mud-game
 2. Compile the game
-sh
-Копировать
-Редактировать
 javac MUDController.java
 3. Run the game
-sh
-Копировать
-Редактировать
+
 java MUDController
 🎮 How to Play
 Once the game starts, you will see a prompt (>) where you can enter commands.
 Example gameplay:
 
-pgsql
-Копировать
-Редактировать
-> look
+look
 Start Room - A dark, cold chamber.
 Items here: sword
 
-> pick up sword
+pick up sword
 You picked up the sword.
 
-> move forward
+move forward
 The door is closed. Try opening it first.
 
-> open door
+open door
 You open the door.
 
-> move forward
+move forward
 You moved forward.
 Hallway - A long, narrow corridor.
 You see an old wizard here.
 
-> talk
+talk
 You talk to the old wizard. They greet you warmly.
 
-> attack
+attack
 You attack the old wizard! They run away.
 📜 Commands
 Command	Description
