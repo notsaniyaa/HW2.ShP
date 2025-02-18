@@ -86,3 +86,8 @@ help -	Displays a list of commands
 
 quit / exit -	Exits the game
 
+_**📝 License**_
+
+This project is licensed under the MIT License.
+
+
