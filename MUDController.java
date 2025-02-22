@@ -13,8 +13,8 @@ class Room {
         this.description = description;
         this.items = new ArrayList<>();
         this.exits = new HashMap<>();
-        this.doorClosed = false;  // По умолчанию дверь открыта
-        this.npc = null;  // По умолчанию никого нет
+        this.doorClosed = false;  
+        this.npc = null;  
     }
 
     public void addExit(String direction, Room room, boolean doorClosed) {
